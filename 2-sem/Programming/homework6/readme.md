@@ -1,41 +1,38 @@
+#Rubik's Cube
+
 Version 1.3
 
 
-Commands:
+##Commands:
 
-/load (filename) - Loads a cube from file.
-
-/save (filename) - Loads current cube to file.
-
-/print - Outputs current cube. 
-
-/invariant - Checks invariantion of cube.
-
-/random - Generates random correct cube.
-
-/solve - Solves correct cube.
+- /load (filename) - Loads a cube from file.
+- /save (filename) - Loads current cube to file.
+- /print - Outputs current cube. 
+- /invariant - Checks invariantion of cube.
+- /random - Generates random correct cube.
+- /solve - Solves correct cube.
 
 
-Rotations:
+##Rotations:
 
- R, L, U, D, F, B,
+- R, L, U, D, F, B,
 
- R', L', U', D', F', B'
-
-
-Arrows:
-
- ↑, ↓, →, ←
+- R', L', U', D', F', B'
 
 
-Other:
+##Arrows:
 
-(+, -) - Speeds up and slows down the rotation speed.
+- ↑, ↓, →, ←
+
+
+##Other:
+
+- (+, -) - Speeds up and slows down the rotation speed.
  
-Esc -  Closes the application.
+- Esc -  Closes the application.
 
 
-Note:
+##Note:
 
  Cube representation is:
  
