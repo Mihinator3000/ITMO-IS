@@ -1,9 +1,9 @@
-#Rubik's Cube
+# Rubik's Cube
 
 Version 1.3
 
 
-##Commands:
+## Commands:
 
 - /load (filename) - Loads a cube from file.
 - /save (filename) - Loads current cube to file.
@@ -13,26 +13,26 @@ Version 1.3
 - /solve - Solves correct cube.
 
 
-##Rotations:
+## Rotations:
 
 - R, L, U, D, F, B,
 
 - R', L', U', D', F', B'
 
 
-##Arrows:
+## Arrows:
 
 - ↑, ↓, →, ←
 
 
-##Other:
+## Other:
 
 - (+, -) - Speeds up and slows down the rotation speed.
  
 - Esc -  Closes the application.
 
 
-##Note:
+## Note:
 
  Cube representation is:
  
