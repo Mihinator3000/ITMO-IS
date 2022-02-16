@@ -1,0 +1,2 @@
+select Name
+from Production.ProductCategory
